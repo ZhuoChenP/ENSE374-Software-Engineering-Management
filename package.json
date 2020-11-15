@@ -1,0 +1,25 @@
+{
+  "name": "lab4",
+  "version": "1.0.0",
+  "description": "* I add the new fucntion to remember the account and password for the user at local machine. \r * Instead of using a word link to control \"login in\", \" Sign Up\" and \"Log Out\" sliding down,\r I decided to use a button to operate and initiate \"toggling\" function, to make it more easier to click\r * Also, add sequencial function animation for \"remove\" and \"add\" new items in the todo list.",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "install": "^0.13.0",
+    "mongoose": "^5.10.14",
+    "npm": "^6.14.8",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^6.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
